@@ -28,21 +28,21 @@ An AI-powered mock interview platform built with **React**, **FastAPI**, and **P
 
 ### Sign In
 
-<img width="1749" height="955" alt="image" src="https://github.com/user-attachments/assets/175db98c-cf01-4cb4-8318-248d1d464ca5" />
+<img width="879" height="955" alt="image" src="https://github.com/user-attachments/assets/175db98c-cf01-4cb4-8318-248d1d464ca5" />
 
 
 ### Landing Page  
-<img width="1770" height="960" alt="image" src="https://github.com/user-attachments/assets/3b560889-9cec-4127-9547-4d85fbefe74c" />
+<img width="879" height="955" alt="image" src="https://github.com/user-attachments/assets/3b560889-9cec-4127-9547-4d85fbefe74c" />
 
 
 ### Interview Dashboard  
-<img width="1008" height="949" alt="image" src="https://github.com/user-attachments/assets/fccb212a-ef0a-4703-abf1-51b3e2b7f390" />
+<img width="879" height="955" alt="image" src="https://github.com/user-attachments/assets/fccb212a-ef0a-4703-abf1-51b3e2b7f390" />
 
 ### MCQ
 <img width="879" height="955" alt="image" src="https://github.com/user-attachments/assets/b17c280d-ba5e-4d69-8303-0cc3b2b5075b" />
 
 ### Technical Round
-<img width="898" height="955" alt="image" src="https://github.com/user-attachments/assets/ee41e7cf-b7d2-42bf-bd5e-e40dbcd032b8" />
+<img width="879" height="955" alt="image" src="https://github.com/user-attachments/assets/ee41e7cf-b7d2-42bf-bd5e-e40dbcd032b8" />
 
 
 
